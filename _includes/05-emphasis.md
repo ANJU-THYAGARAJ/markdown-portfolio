@@ -1,7 +1,6 @@
-*This text will be italic*
-_This will also be italic_
+*Introduction to Github*
+_Welcome to Markdown _
 
-**This text will be bold**
-__This will also be bold__
-
-_You **can** combine them_
+**Introduction to Github**
+__Welcome to Markdown__
+_Introduction to*Github*_
